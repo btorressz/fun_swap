@@ -8,3 +8,6 @@ This project was developred for the same private client I made (https://github.c
 - **Grace Period: Allows for a grace period after the deadline for the swap to be approved.**
 - **Automatic Expiration: Tokens are returned to the original owners if the swap expires.**
 - **Deadline Extension: The deadline for the swap can be extended by Party A.**
+
+  ## License
+This project is licensed under the MIT License.
